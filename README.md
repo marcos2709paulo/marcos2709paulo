@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Rocha 🤓
 
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=marcos2709paulo&show_icons=true&theme=dark"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=marcos2709paulo&show_icons=true&theme=dark"/>
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos2709paulo&layout=compact&langs_count=16&theme=dark"/>
 
 <div> 
