@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcos Rocha 🤓
 
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=marcos2709paulo&show_icons=true&theme=dark"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos2709paulo&layout=compact&langs_count=16&theme=dark"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos2709paulo&layout=compact&langs_count=16&theme=dark"/>
 
 <div> 
 <a href="https://instagram.com/mrocha27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
